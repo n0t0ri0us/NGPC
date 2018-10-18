@@ -1,2 +1,20 @@
 # NGPC
-A no-good python calculator
+## A no-good python calculator written in python using the time & math library. 
+
+Its current operations are limited. 
+***It will  most likely not be updated in the future!*** 
+
+These operations are:
+* Addition
+* Subtraction
+* Multiplacation
+* Division
+* Exponents
+* Square roots
+* Pythagorean Theorum
+* Quitting (stopping the function `my_calculator`)
+* Clearing the command line (*this only works on repl*)
+
+As said above, this will *probably* not be updated in the future because nobody will use this or look at it, and it's not that I *would* update this if it was used, it's just not fun to work on and I'd like to do other things. Please be advised, this is not a good calculator 
+
+***You have been warned***
